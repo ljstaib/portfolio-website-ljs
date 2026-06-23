@@ -1,9 +1,9 @@
 # My Portfolio
 
-Luke Staib, 2023-2024
+Luke Staib
 
 # About 
-Code for my portfolio website **[here](https://www.lukestaib.dev/)**.
+Code for my portfolio website that was once **[here](https://www.lukestaib.dev/)**.
 
 # Technologies used
 - CSS
